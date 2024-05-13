@@ -1,0 +1,23 @@
+{
+  "name": "vehicleservice",
+  "version": "1.0.0",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arfaz7/VehicleService.git"
+  },
+  "author": "Arfaz Feroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arfaz7/VehicleService/issues"
+  },
+  "homepage": "https://github.com/Arfaz7/VehicleService#readme",
+  "description": "",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
